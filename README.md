@@ -12,6 +12,5 @@ link :: https://learn.adafruit.com/adafruit-tdk-invensense-icm-20948-9-dof-imu/a
   
   Connect board SDA (blue wire) to Arduino SDA
   
-  connection.jpg
   
 3-after uploading the code u can run rviz and set the fixed_frame to your frame_id in the arduino code
