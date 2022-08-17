@@ -14,7 +14,7 @@ link :: https://learn.adafruit.com/adafruit-tdk-invensense-icm-20948-9-dof-imu/a
   
   ![connection](https://github.com/iimata/RosSerialArduino-icm_20948-adafruit/blob/13e648956805c3180cb4ba0529a6c6d86d5f1d2c/connection.jpg)
 
-3-after uploading the code u can run rviz and set the fixed_frame to your frame_id in the arduino code.
+3-after uploading the code you can run rviz and set the fixed_frame to your frame_id on the arduino code.
 
 ![rviz](https://github.com/iimata/RosSerialArduino-icm_20948-adafruit/blob/8e517d3d7e1bf755abe3adb018272e6fde22ac38/rviz.png)
 
